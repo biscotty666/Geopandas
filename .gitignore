@@ -1,0 +1,4 @@
+src/
+.envrc
+.direnv/
+.virtual_documents/
