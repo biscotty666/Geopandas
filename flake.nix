@@ -29,9 +29,13 @@
             pandas
             numpy
             geopandas
+            geodatasets
             pyogrio
+            geopy
             matplotlib
             pyproj
+            folium
+            mapclassify
             scipy
             shapely
             xarray

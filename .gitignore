@@ -2,3 +2,4 @@ src/
 .envrc
 .direnv/
 .virtual_documents/
+**/.ipynb_checkpoints/
