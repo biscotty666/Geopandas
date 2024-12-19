@@ -24,6 +24,7 @@
             ipympl
             jupyter-nbextensions-configurator
             jedi-language-server
+            osmnx
             ipywidgets
             mypy
             pandas
