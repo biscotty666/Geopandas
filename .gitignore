@@ -3,3 +3,6 @@ src/
 .direnv/
 .virtual_documents/
 **/.ipynb_checkpoints/
+_build/
+venv/
+docs/cache/
