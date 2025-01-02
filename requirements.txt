@@ -1,1 +1,2 @@
 contextily>=1.6.2
+xarray-spatial==0.4.0
