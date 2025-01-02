@@ -25,6 +25,7 @@
             ipympl
             jupyter-nbextensions-configurator
             jedi-language-server
+            plotly
             osmnx
             ipywidgets
             mypy
